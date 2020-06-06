@@ -8,6 +8,7 @@ class MgApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Application Starting****");
 	}
 
 }
